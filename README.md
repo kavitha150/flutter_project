@@ -17,7 +17,6 @@ Dart (programming language)
 #screenshot
 
 ![Screenshot (154)](https://github.com/user-attachments/assets/6ea13b60-ab92-4018-86a8-2b038d5e8162)
-![Screenshot (155)](https://github.com/user-attachments/assets/5317ee81-f699-40d0-b1df-5419e201f962)
 ![Screenshot (156)](https://github.com/user-attachments/assets/272b8b69-abb8-48a4-9fd3-1d8f8cc9e418)
 ![Screenshot (157)](https://github.com/user-attachments/assets/4253cc7f-d5c6-49c2-b8a7-4a1275fb163f)
 ![Screenshot (158)](https://github.com/user-attachments/assets/9b581a4e-0d9b-4e8b-9334-cbd709a25af8)
